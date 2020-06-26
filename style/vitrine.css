@@ -72,6 +72,7 @@ table {
                 vertical-align: middle;
                 width: 50%;
                 border-color: lightgray;
+                
     }
 fieldset {
    padding: 30px;
@@ -80,17 +81,12 @@ fieldset {
     margin: 0 auto;
     font-family: "OpenSans-Regular";
     border-color: #e6e6e6;
-    border-width: 2px;
+    border-width: 5px;
     background-color: white;
 }
 
 button 
 { background-color: dodgerblue;
     border-color: dodgerblue;
-    color: white;
-}
-p:hover  
-  #button {border-color: #17c1ff;}
+    color: white;}
 
-  form div + div {
-    margin-top: 1em;}

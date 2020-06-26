@@ -44,8 +44,11 @@ footer {
 }
 h2 {
     text-transform: uppercase;
-    text-shadow: violet;
-  color: blue;
+text-shadow: blue;
+  color: black;
+  background-color: lightgray;
+  font-weight: bold;
+  font-size: 30px;
 }
 #block1 {
     color: #3b6674;
@@ -61,7 +64,7 @@ p {
            float: center;
     }
 table {
-    width: 810 px;
+    width: 810px;
                 align-content: center;
                 text-align: center;
                 vertical-align: middle;
@@ -73,5 +76,6 @@ fieldset {
     vertical-align: middle;
     margin: 0 auto;
     font-family: "OpenSans-Regular";
-    border-color: #d377e6;
+    border-color: #e6e6e6;
+    border-width: 2px;
 }
